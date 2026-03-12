@@ -52,7 +52,6 @@ Bus.m  ──►  CCToACCFinal1.slx  ──►  RUN_ACC_LHS.m  ──►  result
 
 ### Correlation Matrix
 
-![Correlation Matrix](img_correlation.jpg)
 ![img_correlation](https://github.com/user-attachments/assets/b9953fe7-dd36-408a-ad6d-a96bbd7836c9)
 
 
@@ -62,7 +61,7 @@ Bus.m  ──►  CCToACCFinal1.slx  ──►  RUN_ACC_LHS.m  ──►  result
 
 ### Scatter Plots — TTC_min vs Key Parameters
 
-![Scatter Plots](img_scatter.jpg)
+
 ![img_scatter](https://github.com/user-attachments/assets/287c37be-cc2e-476e-a951-11aec2ffc962)
 
 
@@ -75,7 +74,7 @@ Bus.m  ──►  CCToACCFinal1.slx  ──►  RUN_ACC_LHS.m  ──►  result
 
 ### CDF Safety Thresholds
 
-![CDF Plots](img_cdf.jpg)
+
 ![img_cdf](https://github.com/user-attachments/assets/de0fdfb3-db8a-433b-900e-4c1be05c8681)
 
 
