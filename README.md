@@ -20,8 +20,8 @@ Bus.m  ──►  CCToACCFinal1.slx  ──►  RUN_ACC_LHS.m  ──►  result
 | `CCToACCFinal1.slx` | Simulink model – ACC controller, vehicle dynamics, radar, KPI block |
 | `Bus.m` | Bus object definitions – **must run before the model** |
 | `RUN_ACC_LHS.m` | Batch runner: samples 7 parameters, simulates 210 scenarios, returns KPIs |
+| `Project_Presentaion_TVR_V2.pptx` | Full project presentation – methodology, results, scatter plots, CDF analysis, conclusions |
 
----
 
 ## ⚙️ Parameter Space (LHS – 7 dimensions)
 
